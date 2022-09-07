@@ -1,0 +1,64 @@
+img{
+    width:500px;
+    height:350px;
+    float:left;
+    margin-right: 50px;
+    border:solid 10px;
+    border-radius: 10px;
+    border-style: double;
+    border-color: gold;
+}
+
+h2{
+    font-size: 100px;
+    text-align:center;
+    text-decoration: overline;
+    color:gold;
+}
+
+.rightimage{
+    float:right;
+    margin-right: 50px;
+    width:500px;
+    height:350px;
+}
+h3{
+    font-size: 45px;
+    text-decoration: underline;
+    text-decoration-color: gold;
+    color:white;
+
+}
+
+.paragraphborder{
+    border: solid 5px;
+    border-style: groove;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:white;
+}
+body{
+    background:rgb(35, 35, 35);
+}
+p{
+    color:white;
+}
+
+.hrcolor{
+    border: solid 2px;
+    border-color: gold;
+}
+
+h4{
+    color:white;
+    font-size: 25px;
+    border:solid 2px;
+    border-color: gold;
+    border-style: double;
+}
+
+
